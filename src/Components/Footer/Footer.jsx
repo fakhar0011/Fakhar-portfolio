@@ -7,8 +7,8 @@ const Footer = () => {
       <div className="footer-top">
         <div className="footer-top-left">
           <p>
-            I'm frontend devoloper.with a knowledge of html css and javascripit.
-            and their technologies are bootstrap and react js.
+            I'm MERN Stack devoloper.with a knowledge of MongoDB Express.js React.js and Node.js.
+            and as well as their technologies Material UI and ShadCN.
           </p>
         </div>
         <div className="footer-top-right">

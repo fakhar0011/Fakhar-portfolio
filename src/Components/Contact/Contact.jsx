@@ -53,7 +53,7 @@ const Contact = () => {
                  <img src={call_icon} alt="" /> <p><b>Whatsp</b>&nbsp;03479164941</p>  <p><b>Contact</b>&nbsp;03428104481</p>
             </div>
             <div className="contact-detail">
-                  <img src={location_icon} alt="" /> <p>Korangi,karachi</p>
+                  <img src={location_icon} alt="" /> <p>Rawalpindi</p>
             </div >
           </div>
         </div>
